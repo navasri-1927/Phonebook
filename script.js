@@ -1,16 +1,16 @@
 const contacts = 
   [
   {
-    "name": "",    "phone": "(358) 274-0770",   "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/14.jpg","id": "1"
+    "name": "Jacky",    "phone": "1234567890",   "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/14.jpg","id": "1"
  },
   {
-    "name": "Timothy Lynch",    "phone": "451-547-4540",    "avatar": "https://avatars.githubusercontent.com/u/22613659",    "id": "2"
+    "name": "Lian",    "phone": "159357852",    "avatar": "https://avatars.githubusercontent.com/u/22613659",    "id": "2"
   },
   {
-    "name": "Janice Bechtelar",    "phone": " 954-4482 x959",    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/84.jpg",    "id": "3"
+    "name": "Bolder yawn",    "phone": " 789456123",    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/female/512/84.jpg",    "id": "3"
   },
   {
-    "name": "Bill Wolf Sr.",    "phone": "753-468-1434",    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/41.jpg",    "id": "4"
+    "name": "Billeuster",    "phone": "1937468215",    "avatar": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/41.jpg",    "id": "4"
   },
   
 ];
