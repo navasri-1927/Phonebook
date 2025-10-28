@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://wallpapers.com/images/hd/light-color-background-1eq9mtpjqjz9ddep.jpg);
+}
+.form-align{
+    display: flex;
+    justify-content: center;
+}
+h4{
+    display: flex;
+    justify-content: center;
+}
+.con-bg{
+    width: 100%;
+    max-width: 700px;
+    border-radius: 20px;
+     margin: auto auto;
+   background-image: url(https://static.vecteezy.com/system/resources/previews/000/625/480/original/vector-abstract-geometric-background-in-light-colors.jpg);
+   background-position: center;
+    margin-top: 150px;
+    padding: 10px;
+    border: 2px solid black;
+}
+input{
+    width: 500px;
+    border-radius: 10px;
+    height: 50px;
+}
